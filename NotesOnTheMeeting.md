@@ -7,7 +7,7 @@
 #### First Comittee Meeting
 
 > At the first meeting the SC will evaluate the student's educational background and select courses required for the degree. For help with course selection at their first meeting, the student may wish to provide the SC  with a curriculum vitae and transcripts in addition to the research proposal.
-
+ 
 #### Presentation
 
 >  At the SC meeting, the student typically begins with a **short oral presentation of his/her work** (with slides; **based on their SC Report**), which is then followed by a **discussion with the committee members.** In some presentation, rather than waiting until the end. In rare cases, it may be felt that the written summary sufficiently describes the student's progress and the SC will proceed directly to discussion without need for oral presentation. 
